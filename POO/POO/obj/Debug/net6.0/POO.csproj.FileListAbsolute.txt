@@ -1,0 +1,14 @@
+C:\Users\Administrador 1\Desktop\PROYECTOS\C#\POO\POO\bin\Debug\net6.0\POO.exe
+C:\Users\Administrador 1\Desktop\PROYECTOS\C#\POO\POO\bin\Debug\net6.0\POO.deps.json
+C:\Users\Administrador 1\Desktop\PROYECTOS\C#\POO\POO\bin\Debug\net6.0\POO.runtimeconfig.json
+C:\Users\Administrador 1\Desktop\PROYECTOS\C#\POO\POO\bin\Debug\net6.0\POO.dll
+C:\Users\Administrador 1\Desktop\PROYECTOS\C#\POO\POO\bin\Debug\net6.0\POO.pdb
+C:\Users\Administrador 1\Desktop\PROYECTOS\C#\POO\POO\obj\Debug\net6.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador 1\Desktop\PROYECTOS\C#\POO\POO\obj\Debug\net6.0\POO.AssemblyInfoInputs.cache
+C:\Users\Administrador 1\Desktop\PROYECTOS\C#\POO\POO\obj\Debug\net6.0\POO.AssemblyInfo.cs
+C:\Users\Administrador 1\Desktop\PROYECTOS\C#\POO\POO\obj\Debug\net6.0\POO.csproj.CoreCompileInputs.cache
+C:\Users\Administrador 1\Desktop\PROYECTOS\C#\POO\POO\obj\Debug\net6.0\POO.dll
+C:\Users\Administrador 1\Desktop\PROYECTOS\C#\POO\POO\obj\Debug\net6.0\refint\POO.dll
+C:\Users\Administrador 1\Desktop\PROYECTOS\C#\POO\POO\obj\Debug\net6.0\POO.pdb
+C:\Users\Administrador 1\Desktop\PROYECTOS\C#\POO\POO\obj\Debug\net6.0\POO.genruntimeconfig.cache
+C:\Users\Administrador 1\Desktop\PROYECTOS\C#\POO\POO\obj\Debug\net6.0\ref\POO.dll
