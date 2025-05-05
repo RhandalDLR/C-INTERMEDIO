@@ -1,0 +1,7 @@
+La clase Persona en la imagen está violando el SRP porque está cumpliendo más de una responsabilidad:
+
+Representación de datos personales (nombre, edad, dirección, correoElectronico).
+
+Lógica de envío de correos electrónicos (EnviarCorreoElectronico).
+
+Lógica de presentación o impresión (ImprimirDatos).

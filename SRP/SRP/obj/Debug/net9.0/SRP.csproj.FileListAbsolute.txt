@@ -1,0 +1,14 @@
+C:\Users\PC\RiderProjects\POO\SRP\bin\Debug\net9.0\SRP.exe
+C:\Users\PC\RiderProjects\POO\SRP\bin\Debug\net9.0\SRP.deps.json
+C:\Users\PC\RiderProjects\POO\SRP\bin\Debug\net9.0\SRP.runtimeconfig.json
+C:\Users\PC\RiderProjects\POO\SRP\bin\Debug\net9.0\SRP.dll
+C:\Users\PC\RiderProjects\POO\SRP\bin\Debug\net9.0\SRP.pdb
+C:\Users\PC\RiderProjects\POO\SRP\obj\Debug\net9.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\RiderProjects\POO\SRP\obj\Debug\net9.0\SRP.AssemblyInfoInputs.cache
+C:\Users\PC\RiderProjects\POO\SRP\obj\Debug\net9.0\SRP.AssemblyInfo.cs
+C:\Users\PC\RiderProjects\POO\SRP\obj\Debug\net9.0\SRP.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\POO\SRP\obj\Debug\net9.0\SRP.dll
+C:\Users\PC\RiderProjects\POO\SRP\obj\Debug\net9.0\refint\SRP.dll
+C:\Users\PC\RiderProjects\POO\SRP\obj\Debug\net9.0\SRP.pdb
+C:\Users\PC\RiderProjects\POO\SRP\obj\Debug\net9.0\SRP.genruntimeconfig.cache
+C:\Users\PC\RiderProjects\POO\SRP\obj\Debug\net9.0\ref\SRP.dll
