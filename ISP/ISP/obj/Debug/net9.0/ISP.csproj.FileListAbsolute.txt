@@ -1,0 +1,11 @@
+C:\Users\PC\RiderProjects\ISP\ISP\bin\Debug\net9.0\ISP.deps.json
+C:\Users\PC\RiderProjects\ISP\ISP\bin\Debug\net9.0\ISP.dll
+C:\Users\PC\RiderProjects\ISP\ISP\bin\Debug\net9.0\ISP.pdb
+C:\Users\PC\RiderProjects\ISP\ISP\obj\Debug\net9.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\RiderProjects\ISP\ISP\obj\Debug\net9.0\ISP.AssemblyInfoInputs.cache
+C:\Users\PC\RiderProjects\ISP\ISP\obj\Debug\net9.0\ISP.AssemblyInfo.cs
+C:\Users\PC\RiderProjects\ISP\ISP\obj\Debug\net9.0\ISP.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\ISP\ISP\obj\Debug\net9.0\ISP.dll
+C:\Users\PC\RiderProjects\ISP\ISP\obj\Debug\net9.0\refint\ISP.dll
+C:\Users\PC\RiderProjects\ISP\ISP\obj\Debug\net9.0\ISP.pdb
+C:\Users\PC\RiderProjects\ISP\ISP\obj\Debug\net9.0\ref\ISP.dll
